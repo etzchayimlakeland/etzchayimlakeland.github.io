@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Etz Chayim Lakeland
+logo: /assets/img/EtzChayim.jpg
 email: etzchayim@dmcarroll.net
 description: >- # this means to ignore newlines until "baseurl:"
   Development website for Etz Chayim Messianic Synagogue in Lakeland, Florida.

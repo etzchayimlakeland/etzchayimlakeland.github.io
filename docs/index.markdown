@@ -7,6 +7,6 @@
 <html>
 <body>
 <h1>Shalom Everyone</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<p>This site hosted with GitHub Pages.</p>
 </body>
 </html>

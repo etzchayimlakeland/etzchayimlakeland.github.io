@@ -11,10 +11,10 @@ Developing code or any type of documents as a team requires a system for trackin
 [Jekyll][jekyll] is the recommended site builder for GitHub. Creating web pages and/or blog posts can be accomplished in [Markdown][markdown] or HTML. And templates are easily built using [Liquid][liquid] which is built into Jekyll.
 
 Additional resources:
-  [GitHub documentation][github-docs]
-  [GitHub Learning Lab][learning-lab]
-  [Markdown-Cheatsheet][markdown-cheatsheet]
-  [Jekyll Templates][jekyll-templates]
+* [GitHub documentation][github-docs]
+* [GitHub Learning Lab][learning-lab]
+* [Markdown-Cheatsheet][markdown-cheatsheet]
+* [Jekyll Templates][jekyll-templates]
 
 
 [etzchayim-web]: https://www.myetzchayim.org/

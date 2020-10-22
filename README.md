@@ -67,3 +67,8 @@ Additional resources:
 [liquid]: https://github.com/Shopify/liquid/wiki
 [jekyll-templates]: https://jekyllrb.com/docs/liquid/
 [jekyll-blog-gh-pages]: https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/
+
+
+---
+
+License: [Apache License 2.0](https://github.com/etzchayimlakeland/etzchayimlakeland.github.io/blob/master/LICENSE)

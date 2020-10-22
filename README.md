@@ -1,4 +1,4 @@
-# Etz Chayim -Tree of Life
+# Etz Chayim - Tree of Life
 ## Messianic Synagogue
 
 ### Welcome to Etz Chayim Messianic Synagogue of Lakeland, Florida
